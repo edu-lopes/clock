@@ -7,6 +7,7 @@ Relógio analógico com horas atualizadas no horário de Brasília - DF.
 - Ponteiros animados que giram através de cálculos com base em horas e graus
 
 ## Tecnologias utilizadas
+- HTML
 - CSS
 - JavaScript
 
